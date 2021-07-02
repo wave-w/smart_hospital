@@ -1,0 +1,53 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/bedlist/index"
+		    
+		},
+		{
+		    "path" : "pages/succession/index"
+		},
+		{
+		    "path" : "pages/surgery/index"
+		},
+		{
+		    "path" : "pages/ward/index"
+		},
+		{
+            "path" : "pages/signs/index"  
+        },
+		{
+            "path" : "pages/infusion/index"
+        },
+		{
+            "path" : "pages/nursing/index"
+        },
+        {
+            "path" : "pages/quality/index"
+        },
+		{
+		    "path" : "pages/bedlist/medicalrecords/abstract"
+		},
+		{
+		    "path" : "pages/bedlist/medicalrecords/advice"
+		},
+		{
+		    "path" : "pages/bedlist/medicalrecords/check"
+		},
+		{
+		    "path" : "pages/bedlist/medicalrecords/information"
+		},
+		{
+		    "path" : "pages/bedlist/medicalrecords/inspection"
+		},
+		{
+		    "path" : "pages/bedlist/medicalrecords/medicalrecords"
+		},
+		{
+		    "path" : "pages/bedlist/medicalrecords/surgery"
+		}
+    ],
+	"globalStyle": {
+		"navigationStyle":"custom"
+		}
+}
